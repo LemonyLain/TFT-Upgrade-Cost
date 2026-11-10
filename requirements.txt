@@ -1,0 +1,4 @@
+# Model, tests and the local web app
+flask>=3.0
+numpy>=1.26
+pytest>=8.0

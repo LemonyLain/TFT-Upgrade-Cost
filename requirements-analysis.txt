@@ -1,0 +1,10 @@
+# Only needed to re-run the notebooks
+pandas>=2.2
+scipy>=1.11
+scikit-learn>=1.5
+umap-learn>=0.5
+xgboost>=2.0
+shap>=0.45
+lifelines>=0.29
+matplotlib>=3.8
+jupyter
